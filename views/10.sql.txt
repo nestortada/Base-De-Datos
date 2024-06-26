@@ -1,0 +1,40 @@
++----------------------------------------------------------------------------------+-----------+---------+
+|                            complexity of the artwork                             |  artist   | entropy |
++----------------------------------------------------------------------------------+-----------+---------+
+| Misaka Pass in Kai Province                                                      | Hiroshige | 7.94    |
+| Shiojiri Pass in Shinano Province                                                | Hiroshige | 7.84    |
+| The Izu Mountains                                                                | Hiroshige | 7.72    |
+| Lake Suwa in Shinano Province                                                    | Hiroshige | 7.72    |
+| Futami Bay in Ise Province                                                       | Hiroshige | 7.67    |
+| Hodogaya on the Tōkaidō                                                          | Hokusai   | 7.57    |
+| The Ōi River between Suruga and Totomi Provinces                                 | Hiroshige | 7.52    |
+| Kogane Plain in Shimōsa Province                                                 | Hiroshige | 7.5     |
+| Yoshida at Tōkaidō                                                               | Hokusai   | 7.49    |
+| The Hota Coast in Awa Province                                                   | Hiroshige | 7.49    |
+| Barrier Town on the Sumida River                                                 | Hokusai   | 7.48    |
+| Tama River in Musashi Province                                                   | Hokusai   | 7.48    |
+| Bay of Noboto                                                                    | Hokusai   | 7.46    |
+| Mount Fuji from the mountains of Tōtōmi                                          | Hokusai   | 7.44    |
+| The lake of Hakone in Sagami Province                                            | Hokusai   | 7.42    |
+| Ushibori in Hitachi Province                                                     | Hokusai   | 7.4     |
+| Tsukuda Island in Musashi Province                                               | Hokusai   | 7.39    |
+| Shichiri beach in Sagami Province                                                | Hokusai   | 7.38    |
+| Mishima Pass in Kai Province                                                     | Hokusai   | 7.38    |
+| The Seven Ri Beach in Sagami Province                                            | Hiroshige | 7.38    |
+| Lake at Hakone                                                                   | Hiroshige | 7.37    |
+| The Kazusa Province sea route                                                    | Hokusai   | 7.36    |
+| Dog Eye Pass in Kai Province                                                     | Hiroshige | 7.36    |
+| Umezawa in Sagami Province                                                       | Hokusai   | 7.33    |
+| The Ōtsuki Plain in Kai Province                                                 | Hiroshige | 7.31    |
+| Nihonbashi bridge in Edo                                                         | Hokusai   | 7.3     |
+| Mt. Kanō in Kazusa Province                                                      | Hiroshige | 7.3     |
+| Fuji on the left of the Tōkaidō Road                                             | Hiroshige | 7.28    |
+| The Sea off Satta in Suruga Province                                             | Hiroshige | 7.23    |
+| Mount Fuji reflects in Lake Kawaguchi, seen from the Misaka Pass in Kai Province | Hokusai   | 7.17    |
+| Kuroto Bay in Kazusa Province                                                    | Hiroshige | 7.1     |
+| A View of Mount Fuji Across Lake Suwa                                            | Hokusai   | 7.02    |
+| The Pine Forest of Miho in Suruga Province                                       | Hiroshige | 7.01    |
+| Asakusa Hongan-ji temple in the Eastern capital                                  | Hokusai   | 6.92    |
+| The Entrance gate at Enoshima in Sagami Province                                 | Hiroshige | 6.87    |
+| Kajikazawa in Kai Province                                                       | Hokusai   | 6.32    |
++----------------------------------------------------------------------------------+-----------+---------+
