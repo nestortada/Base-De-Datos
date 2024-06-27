@@ -1,0 +1,104 @@
++------------+-------------+-----------------+
+| first_name |  last_name  |   birth_city    |
++------------+-------------+-----------------+
+| Dupee      | Shaw        | Charlestown     |
+| Rome       | Chambers    | Weaverville     |
+| Eddie      | Plank       | Gettysburg      |
+| Ernie      | Ross        | Toronto         |
+| Tommy      | Madden      | Philadelphia    |
+| Bill       | Foxen       | Tenafly         |
+| Eddie      | Hohnhorst   | Covington       |
+| Erv        | Kantlehner  | San Jose        |
+| Art        | Nehf        | Terre Haute     |
+| Carl       | Ray         | Danbury         |
+| Ray        | O'Brien     | St. Louis       |
+| John       | Sullivan    | Chicago         |
+| Ben        | Mallonee    | Baltimore       |
+| Don        | Songer      | Walnut          |
+| Jack       | Burns       | Cambridge       |
+| Charlie    | Wiedemeyer  | Chicago         |
+| Mel        | Mazzera     | Stockton        |
+| Dave       | Koslo       | Menasha         |
+| Tommy      | Byrne       | Baltimore       |
+| Jess       | Pike        | Dustin          |
+| Al         | Aber        | Cleveland       |
+| Dee        | Fondy       | Slaton          |
+| Rip        | Coleman     | Troy            |
+| Fred       | Van Dusen   | Jackson Heights |
+| John       | Herrnstein  | Hampton         |
+| Bill       | Voss        | Glendale        |
+| Ramon      | Webster     | Colon           |
+| Moose      | Stubing     | Bronx           |
+| Boots      | Day         | Ilion           |
+| Earl       | Stephenson  | Benson          |
+| Gonzalo    | Marquez     | Carupano        |
+| Claudell   | Washington  | Los Angeles     |
+| Tippy      | Martinez    | La Junta        |
+| Joe        | Simpson     | Purcell         |
+| Leon       | Durham      | Cincinnati      |
+| Joe        | Orsulak     | Glen Ridge      |
+| Fred       | McGriff     | Tampa           |
+| Morris     | Madden      | Laurens         |
+| Steve      | Rosenberg   | Brooklyn        |
+| Kenny      | Lofton      | East Chicago    |
+| Oreste     | Marrero     | Bayamon         |
+| David      | Dellucci    | Baton Rouge     |
+| Tim        | Byrdak      | Oak Lawn        |
+| Dave       | Roberts     | Naha            |
+| Steve      | Cox         | Delano          |
+| Tim        | Christman   | Oneonta         |
+| Randy      | Flores      | Bellflower      |
+| Sam        | McConnell   | Middletown      |
+| Josh       | Kroeger     | Davenport       |
+| Jesse      | Carlson     | New Britain     |
+| Alex       | Hinshaw     | Pomona          |
+| Charlie    | Manning     | Winter Haven    |
+| Caleb      | Gindl       | Pensacola       |
+| Alex       | Claudio     | San Juan        |
+| Edgar      | Ibarra      | Valencia        |
+| Kyle       | McGrath     | Louisville      |
+| Dillon     | Peters      | Indianapolis    |
+| Luiz       | Gohara      | Tupa            |
+| Dylan      | Cozens      | Scottsdale      |
+| Ryan       | Borucki     | Highland Park   |
+| Adam       | McCreery    | La Verne        |
+| Cole       | Irvin       | Anaheim         |
+| Locke      | St. John    | Birmingham      |
+| Nick       | Plummer     | Lathrup Village |
+| Jose       | Hernandez   | Puerto Plata    |
+| John       | Shoup       | NULL            |
+| Pete       | Fries       | Scranton        |
+| George     | Van Haltren | St. Louis       |
+| George     | Proeser     | Cincinnati      |
+| Buck       | Freeman     | Catasauqua      |
+| Frank      | Killen      | Pittsburgh      |
+| Charlie    | Frank       | Mobile          |
+| Mike       | Donlin      | Peoria          |
+| Sam        | Edmonston   | Washington      |
+| Ben        | Houser      | Frackville      |
+| Casey      | Stengel     | Kansas City     |
+| Doc        | Watson      | Carroll County  |
+| Bill       | Terry       | Atlanta         |
+| Dud        | Branom      | Sulphur Springs |
+| Mickey     | Heath       | Toledo          |
+| Roy        | Joiner      | Red Bluff       |
+| Charlie    | Uhlir       | Chicago         |
+| Frank      | Lamanske    | Oglesby         |
+| Jennings   | Poindexter  | Pauls Valley    |
+| Mickey     | Harris      | New York        |
+| Aldon      | Wilkie      | Zealandia       |
+| Harry      | Sketchley   | Virden          |
+| Joe        | Nuxhall     | Hamilton        |
+| Paul       | Minner      | New Wilmington  |
+| Dick       | Koecher     | Philadelphia    |
+| Gordon     | Goldsberry  | Sacramento      |
+| Bill       | Glynn       | Sussex          |
+| Mal        | Mallette    | Syracuse        |
+| Marv       | Blaylock    | Fort Smith      |
+| Leo        | Kiely       | Hoboken         |
+| Ben        | Taylor      | Metropolis      |
+| Sandy      | Amoros      | Matanzas        |
+| Johnny     | Podres      | Witherbee       |
+| Dixie      | Upright     | Kannapolis      |
+| Bill       | Taylor      | Alhambra        |
++------------+-------------+-----------------+
