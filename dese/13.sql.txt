@@ -1,0 +1,111 @@
++----------------------------------------------------------------------------------------------+------------------+------------------+
+|                                             name                                             | AVG("exemplary") | AVG("evaluated") |
++----------------------------------------------------------------------------------------------+------------------+------------------+
+| Wrentham                                                                                     | 72.2             | 100.0            |
+| Wellfleet                                                                                    | 64.3             | 100.0            |
+| Eastham                                                                                      | 63.9             | 100.0            |
+| Nauset                                                                                       | 56.0             | 100.0            |
+| Brewster                                                                                     | 52.5             | 100.0            |
+| Plainville                                                                                   | 44.1             | 100.0            |
+| Global Learning Charter Public (District)                                                    | 40.7             | 100.0            |
+| Berkley                                                                                      | 37.7             | 100.0            |
+| Southern Berkshire                                                                           | 35.8             | 100.0            |
+| Blackstone Valley Regional Vocational Technical                                              | 31.5             | 100.0            |
+| Marion                                                                                       | 30.6             | 100.0            |
+| Central Berkshire                                                                            | 30.4             | 100.0            |
+| Foxborough                                                                                   | 27.9             | 100.0            |
+| Sturbridge                                                                                   | 26.5             | 100.0            |
+| Southeastern Regional Vocational Technical                                                   | 25.3             | 100.0            |
+| Freetown-Lakeville                                                                           | 24.5             | 100.0            |
+| Hadley                                                                                       | 24.1             | 100.0            |
+| North Brookfield                                                                             | 24.1             | 100.0            |
+| Mansfield                                                                                    | 21.4             | 100.0            |
+| Wales                                                                                        | 21.1             | 100.0            |
+| Plympton                                                                                     | 20.7             | 100.0            |
+| Mattapoisett                                                                                 | 20.4             | 100.0            |
+| North Middlesex                                                                              | 20.4             | 100.0            |
+| Amherst-Pelham                                                                               | 19.2             | 100.0            |
+| Deerfield                                                                                    | 19.1             | 100.0            |
+| Pentucket                                                                                    | 18.8             | 100.0            |
+| Bellingham                                                                                   | 18.6             | 100.0            |
+| Newburyport                                                                                  | 18.0             | 100.0            |
+| Montachusett Regional Vocational Technical                                                   | 17.7             | 100.0            |
+| Community Day Charter Public School (District)                                               | 17.1             | 100.0            |
+| Easton                                                                                       | 21.2             | 99.7             |
+| Wellesley                                                                                    | 17.4             | 99.6             |
+| Tyngsborough                                                                                 | 18.1             | 99.4             |
+| Assabet Valley Regional Vocational Technical                                                 | 21.3             | 99.2             |
+| Sandwich                                                                                     | 18.5             | 99.2             |
+| Gill-Montague                                                                                | 37.4             | 99.1             |
+| Old Rochester                                                                                | 19.6             | 99.1             |
+| Canton                                                                                       | 18.2             | 99.1             |
+| Rockport                                                                                     | 17.3             | 99.1             |
+| Prospect Hill Academy Charter (District)                                                     | 17.3             | 99.0             |
+| Quabbin                                                                                      | 23.8             | 98.9             |
+| Nashoba Valley Regional Vocational Technical                                                 | 17.6             | 98.8             |
+| Bridgewater-Raynham                                                                          | 17.5             | 98.5             |
+| Westford                                                                                     | 19.5             | 98.3             |
+| Dover                                                                                        | 19.3             | 98.3             |
+| Silver Lake                                                                                  | 24.6             | 98.2             |
+| Hatfield                                                                                     | 56.9             | 98.1             |
+| Monomoy Regional School District                                                             | 39.2             | 98.1             |
+| Hull                                                                                         | 30.1             | 98.1             |
+| Carver                                                                                       | 17.4             | 98.1             |
+| Southampton                                                                                  | 17.0             | 98.1             |
+| Wayland                                                                                      | 25.7             | 98.0             |
+| Ashburnham-Westminster                                                                       | 18.7             | 98.0             |
+| Dover-Sherborn                                                                               | 34.3             | 97.9             |
+| Halifax                                                                                      | 23.4             | 97.9             |
+| Falmouth                                                                                     | 18.8             | 97.9             |
+| Minuteman Regional Vocational Technical                                                      | 18.3             | 97.9             |
+| Mashpee                                                                                      | 36.4             | 97.7             |
+| UP Academy Charter School of Boston (District)                                               | 20.9             | 97.7             |
+| Ipswich                                                                                      | 35.4             | 97.5             |
+| Granby                                                                                       | 22.1             | 97.5             |
+| Springfield                                                                                  | 20.7             | 97.5             |
+| Westwood                                                                                     | 17.3             | 97.5             |
+| Orleans                                                                                      | 78.9             | 97.4             |
+| Winchester                                                                                   | 23.2             | 97.3             |
+| Topsfield                                                                                    | 35.7             | 97.2             |
+| Tri-County Regional Vocational Technical                                                     | 27.9             | 97.2             |
+| East Longmeadow                                                                              | 25.8             | 97.2             |
+| Wachusett                                                                                    | 29.1             | 97.0             |
+| Milton                                                                                       | 21.6             | 97.0             |
+| Medford                                                                                      | 17.2             | 96.9             |
+| Longmeadow                                                                                   | 37.7             | 96.7             |
+| Williamsburg                                                                                 | 17.2             | 96.7             |
+| Westhampton                                                                                  | 26.9             | 96.3             |
+| Triton                                                                                       | 37.9             | 95.9             |
+| Wareham                                                                                      | 37.7             | 95.7             |
+| Berlin-Boylston                                                                              | 17.3             | 95.7             |
+| Bristol County Agricultural                                                                  | 18.6             | 95.6             |
+| Andover                                                                                      | 23.7             | 95.5             |
+| Dennis-Yarmouth                                                                              | 42.1             | 95.2             |
+| Westborough                                                                                  | 17.5             | 95.2             |
+| Manchester Essex Regional                                                                    | 50.3             | 94.7             |
+| Nahant                                                                                       | 38.9             | 94.7             |
+| Lynnfield                                                                                    | 19.7             | 94.7             |
+| Weston                                                                                       | 18.6             | 94.3             |
+| Northern Berkshire Regional Vocational Technical                                             | 20.4             | 94.2             |
+| Scituate                                                                                     | 23.3             | 94.1             |
+| Sherborn                                                                                     | 22.9             | 94.1             |
+| Barnstable                                                                                   | 22.8             | 93.6             |
+| Edward M. Kennedy Academy for Health Careers: A Horace Mann Charter Public School (District) | 30.2             | 93.5             |
+| Millbury                                                                                     | 17.8             | 93.5             |
+| King Philip                                                                                  | 40.7             | 93.1             |
+| Northampton                                                                                  | 22.0             | 93.1             |
+| Bourne                                                                                       | 24.4             | 93.0             |
+| Plymouth                                                                                     | 17.3             | 93.0             |
+| Somerville                                                                                   | 28.0             | 92.6             |
+| Northbridge                                                                                  | 23.4             | 92.6             |
+| Holland                                                                                      | 20.0             | 92.6             |
+| Framingham                                                                                   | 18.5             | 92.5             |
+| Boston Day and Evening Academy Charter (District)                                            | 44.4             | 92.3             |
+| Chesterfield-Goshen                                                                          | 20.8             | 92.3             |
+| Winchendon                                                                                   | 21.3             | 92.2             |
+| Mohawk Trail                                                                                 | 21.5             | 92.1             |
+| Quaboag Regional                                                                             | 36.0             | 91.7             |
+| Hanover                                                                                      | 21.9             | 91.1             |
+| Norfolk                                                                                      | 57.3             | 90.8             |
+| Middleborough                                                                                | 26.6             | 90.8             |
++----------------------------------------------------------------------------------------------+------------------+------------------+
